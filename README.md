@@ -27,11 +27,13 @@ On the terminal, under the conda dev environment, install the following:
 ## Examples
 
 Base example before hooked up to AWS Lambda.
-![Base Example](./Resources/RoboAdvisorTest.mov)
+
+![Base Example](./Resources/RoboAdvisorTest.gif)
 
 
 Final example after hooked up to AWS Lambda.
-![Base Example](./Resources/RoboAdvisorFinal.mov)
+
+![Base Example](./Resources/RoboAdvisorFinal.gif)
 
 ---
 
